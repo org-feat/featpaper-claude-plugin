@@ -1,0 +1,20 @@
+{
+  "name": "featpaper",
+  "version": "0.7.3",
+  "description": "Make documents and reports as desktop and mobile PDFs and register them on FeatPaper. Creating documents and downloading files works without login; registering uploads requires login.",
+  "author": {
+    "name": "FeatPaper",
+    "email": "hello@wefeat.kr",
+    "url": "https://featpaper.com"
+  },
+  "homepage": "https://featpaper.com",
+  "license": "MIT",
+  "keywords": [
+    "featpaper",
+    "feat",
+    "pdf",
+    "document",
+    "share",
+    "link"
+  ]
+}

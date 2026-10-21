@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "featpaper": {
+      "type": "http",
+      "url": "https://mcp.featpaper.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "platform": "claude",
+  "stage": "production",
+  "version": "0.7.3",
+  "commit": "b24d88f595e71bcc7176ece5b64fd5ca686320e2",
+  "mcpUrl": "https://mcp.featpaper.com/mcp",
+  "workflow": "direct-pdf-general-mcp",
+  "sourceRepo": "org-feat/feat-mcp",
+  "sourceCommit": "f9ddd4a915f92a91932e214a6a4141c466d87333",
+  "guideVersion": 2,
+  "guideDigest": "26bdd40a7f2ab94b41fc6c126663e7a64c02875dc69c4f9cc59ee5226310eb05",
+  "bootstrapDigest": "5938def0c78737c7a643e54ba4d2dbbfe3bd14eb328091d51c0f7e7ea79d343e",
+  "kitDigest": "7b61b52ef8c9a2e31028d82a0146e6f57a63c49dd725ebfd95bc01419e19813f",
+  "pdfPolicyDigest": "7494ee1fff965a5beb9d715bff1fcfdb3b14211005b043f53637570a19871d8b",
+  "sourceTreeDigest": "79edc6aaf00afe8f5b951b2909139217d47130210eca741031deee1af6b22537"
+}

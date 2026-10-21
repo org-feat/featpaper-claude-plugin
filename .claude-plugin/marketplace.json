@@ -1,0 +1,12 @@
+{
+  "name": "featpaper",
+  "owner": { "name": "FeatPaper", "email": "hello@wefeat.kr", "url": "https://featpaper.com" },
+  "description": "FeatPaper plugins for Claude.",
+  "plugins": [
+    {
+      "name": "featpaper",
+      "source": "./plugin",
+      "description": "Make documents as desktop and mobile PDFs and publish them as FeatPaper share links, read FeatPaper links, and see who read which page."
+    }
+  ]
+}
