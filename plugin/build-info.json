@@ -1,7 +1,7 @@
 {
   "platform": "claude",
   "stage": "production",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "commit": "b24d88f595e71bcc7176ece5b64fd5ca686320e2",
   "mcpUrl": "https://mcp.featpaper.com/mcp",
   "workflow": "direct-pdf-general-mcp",
