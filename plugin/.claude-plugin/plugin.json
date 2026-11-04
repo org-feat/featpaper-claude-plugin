@@ -1,7 +1,7 @@
 {
   "name": "featpaper",
   "displayName": "FeatPaper",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "description": "Make documents and reports as desktop and mobile PDFs and register them on FeatPaper. Creating documents and downloading files works without login; registering uploads requires login.",
   "author": {
     "name": "FeatPaper",
