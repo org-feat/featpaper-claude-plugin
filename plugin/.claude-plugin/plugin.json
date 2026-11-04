@@ -10,7 +10,7 @@
   },
   "homepage": "https://featpaper.com",
   "documentationUrl": "https://featpaper.com/docs/en/plugins/ai-assistants/",
-  "supportUrl": "mailto:hello@wefeat.kr",
+  "supportUrl": "https://featpaper.com/docs/",
   "privacyPolicyUrl": "https://featpaper.com/en/privacy/",
   "termsOfServiceUrl": "https://featpaper.com/en/terms/",
   "repository": "https://github.com/org-feat/featpaper-claude-plugin",
