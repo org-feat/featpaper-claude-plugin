@@ -1,5 +1,6 @@
 {
   "name": "featpaper",
+  "displayName": "FeatPaper",
   "version": "0.7.4",
   "description": "Make documents and reports as desktop and mobile PDFs and register them on FeatPaper. Creating documents and downloading files works without login; registering uploads requires login.",
   "author": {
@@ -8,7 +9,11 @@
     "url": "https://featpaper.com"
   },
   "homepage": "https://featpaper.com",
+  "documentationUrl": "https://featpaper.com/docs/en/plugins/ai-assistants/",
+  "supportUrl": "mailto:hello@wefeat.kr",
   "privacyPolicyUrl": "https://featpaper.com/en/privacy/",
+  "termsOfServiceUrl": "https://featpaper.com/en/terms/",
+  "repository": "https://github.com/org-feat/featpaper-claude-plugin",
   "license": "MIT",
   "keywords": [
     "featpaper",
